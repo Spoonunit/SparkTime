@@ -1,7 +1,7 @@
 {
-  "name": "SparkTime",
+  "name": "SparkTime-for-photon",
   "author": "Brian Ogilvie <bko@pobox.com>",
   "license": "MIT",
   "version": "0.0.6",
-  "description": "A Spark Library for NTP time"
+  "description": "Forked from SparkTime - A Spark Library for NTP time by Brian Ogilvie <bko@pobox.com>"
 }

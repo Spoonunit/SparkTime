@@ -1,7 +1,7 @@
 #ifndef _SPARKTIME
 #define _SPARKTIME
 
-#include "application.h"
+#include "Particle.h"
 
 #define SPARKTIMENTPSIZE 48
 #define SPARKTIMEHOSTNAMESIZE 64
