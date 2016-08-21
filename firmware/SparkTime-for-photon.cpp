@@ -27,7 +27,7 @@
 
 */
 
-#include "SparkTime.h"
+#include "SparkTime-for-photon.h"
 
 SparkTime::SparkTime()
 {
